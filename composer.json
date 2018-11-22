@@ -1,0 +1,11 @@
+{
+    "name": "root/json-model-converter",
+    "description": "JSON model converter",
+    "authors": [
+        {
+            "name": "patkins",
+            "email": "peter.atkins85@gmail.com"
+        }
+    ],
+    "require": {}
+}
